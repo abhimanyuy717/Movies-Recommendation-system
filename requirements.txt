@@ -1,0 +1,5 @@
+streamlit==1.50.0
+streamlit-searchbox==0.1.23
+pandas>=2.2
+numpy>=2.0
+joblib>=1.4
